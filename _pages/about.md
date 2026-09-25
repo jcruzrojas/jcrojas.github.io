@@ -27,7 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral researcher at the Facultad de Ciencias UNAM. Previously, I was a postdoctoral researche fellow at the Instituto de Ciencias Nucleares, and a postdoctoral researcher at the Asia Pacific Center for Theoretical Physics in South Korea.
+
+My research is in High Energy Physics, with a focus on Applications of the Gauge/Gravity Duality on QCD. Recently, my work has centered on describing the matter inside Neutron Stars, and provide predictions for future measurements of their characteristics as well as of possible collisions of binary systems.
+I obtained my Ph.D. from University of Southampton, my Master’s degree from the University of Cambridge. I completed my undergraduate studies in Physics at UNAM.
+
+You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
